@@ -24,3 +24,7 @@ bash install-pyenv.sh
 
 echo "Installing pdm"
 bash install-pdm.sh
+
+echo ''
+echo "Done!"
+

@@ -23,3 +23,18 @@ bash create_python_dev_environtment_ubuntu_22_04.sh
    ```
    cp -v ~/create-python-dev-environment-main/*.sh ~/
    ```
+
+4. Disregard any messages until script finishes
+
+5. Restart shell
+   ```
+   eval $SHELL
+   ```
+
+6. Test installation:
+   ```
+   pyenv versions
+   ```
+   ```
+   pdm --version
+   ```
