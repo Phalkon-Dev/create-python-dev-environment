@@ -8,7 +8,7 @@ echo "This script assumes that you have already installed Ubuntu 22.04, prefereb
 echo
 echo "Do you want to continue? (y/n)"
 read answer
-if ! [[[ $answer == "y" || $answer == "Y" ]]] ; then
+if [ "$answer" != "y" ] && [ "$answer" != "Y" ] ; then
     echo "Exiting..."
     exit 1
 fi  

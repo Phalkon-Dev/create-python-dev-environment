@@ -21,5 +21,5 @@ bash create_python_dev_environtment_ubuntu_22_04.sh
    ```
 3. Copy the files to your main directory:
    ```
-   cp -v ~/Downloads/create-python-dev-environment-main/*.sh ~/
+   cp -v ~/create-python-dev-environment-main/*.sh ~/
    ```
