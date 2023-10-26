@@ -38,3 +38,8 @@ bash create_python_dev_environtment_ubuntu_22_04.sh
    ```
    pdm --version
    ```
+
+7. Cleanup files
+   ```
+   rm -rf create-python-dev-environment-main *.sh
+   ```
