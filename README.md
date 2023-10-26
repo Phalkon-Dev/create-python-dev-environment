@@ -13,4 +13,4 @@ bash create_python_dev_environtment_ubuntu_22_04.sh
 
 ## Quick Tip
 
-Download the zip file intead of clone thre repository.
+Download the zip file instead of cloning the repository.
