@@ -13,4 +13,13 @@ bash create_python_dev_environtment_ubuntu_22_04.sh
 
 ## Quick Tip
 
-Download the zip file instead of cloning the repository.
+1. Download the zip file instead of cloning the repository.
+
+2. Unzip file:
+   ```
+   unzip ~/Downloads/create-python-dev-environment-main.zip
+   ```
+3. Copy the files to your main directory:
+   ```
+   cp -v ~/Downloads/create-python-dev-environment-main/*.sh ~/
+   ```
