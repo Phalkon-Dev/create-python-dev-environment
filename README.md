@@ -8,5 +8,9 @@ You could run `install-pyenv.sh` and `install-pdm.sh` separetly if you already h
 ## Instructions
 
 ```
-bash create_python_dev_environment.sh
+bash create_python_dev_environtment_ubuntu_22_04.sh
 ```
+
+## Quick Tip
+
+Download the zip file intead of clone thre repository.
